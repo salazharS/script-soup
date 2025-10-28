@@ -100,13 +100,3 @@ Script de **pós-instalação corporativa** (HO padrão 23/10) que automatiza co
 - Verifique caminhos de rede e dependências antes da execução.  
 
 ---
-
-## 🧑‍💻 Autor
-**Felipe Conceição Lula Lublanski (Felps)**  
-💼 Técnico N1 em Infraestrutura e Automação de Processos  
-📅 Outubro / 2025  
-
----
-
-## 📜 Licença
-Distribuído sob a licença **MIT** — uso livre para fins profissionais e educacionais.
